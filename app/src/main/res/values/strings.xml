@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Book Mobile</string>
+    <string name="sara_adabiyotlardan_namunalar">Sara adabiyotlardan namunalar</string>
+    <string name="ko_proq">Ko`proq</string>
+    <string name="yangi_nashrlar">Yangi nashrlar</string>
+    <string name="kitob_muallifi_nomi_yoki_nashriyot">Kitob muallifi , nomi yoki nashriyot ...</string>
+    <string name="kategoriyalar">Kategoriyalar</string>
+</resources>
